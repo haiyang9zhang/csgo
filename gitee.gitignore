@@ -1,0 +1,22 @@
+# video
+*.avi
+*.mp4
+
+#weight file
+*.weights
+
+#pycache
+*.t7
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+__pycache__
+
+#textfile
+*.txt
+
+#IDEA
+.idea
